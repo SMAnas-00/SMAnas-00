@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMAnas-00
-- 👀 I’m interested in C#, JAVA and PYTHON like BACKEND stuff and REACT-NATIVE for FRONTEND
-- 🌱 I’m currently learning Flutter and JavaScript.
+- 👀 I’m interested in Flutter, Dart, Firebase and SpringBoot JAVA
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me gouheranas4456@gmail.com && https://www.linkedin.com/in/smanas00/
 
 <!---
