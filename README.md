@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SMAnas-00
+- 👋 Hi, I’m Syed Muhammad Anas
 - 👀 I’m interested in Flutter, Dart, Firebase and SpringBoot JAVA
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me gouheranas4456@gmail.com && https://www.linkedin.com/in/smanas00/
