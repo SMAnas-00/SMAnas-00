@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21763
-Fork on GitHub
-6925
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Syed Muhammad Anas</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
