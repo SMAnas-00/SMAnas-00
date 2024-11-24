@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Syed Muhammad Anas</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
